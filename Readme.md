@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алексей Семенов](https://up.htmlacademy.ru/htmlcss/32/user/1845241).
-* Наставник: `Рахиб`.
+* Наставник: `<li><a href="https://htmlacademy.ru/profile/id1786315">Рахиб</a></li>.
 
 ---
 
